@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Attendance</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity1">Attendance</string>
+    <string name="title_activity_setting_activity">Attendance</string>
+    <string name="title_activity_help">Attendance</string>
+    <string name="title_activity_export">Attendance</string>
+    <string name="title_activity_ass_display">AssDisplay</string>
+    <string name="title_activity_ass_enter">Attendance</string>
+    <string name="title_activity_ass_show">Attendance</string>
+    <string name="title_activity_testcolumn">Attendance</string>
+    <string name="title_activity_testenter">Attendance</string>
+    <string name="title_activity_showmark">Showmark</string>
+    <string name="title_activity_list_activity">Attendance</string>
+    <string name="title_activity_date_picker1">Attendance</string>
+    <string name="title_activity_attend_">Attendance</string>
+    <string name="title_activity_today_display">Attendance</string>
+    <string name="title_activity_seclistdisplay">Attendance</string>
+    <string name="title_activity_profile1">Attendance</string>
+    <string name="title_activity_developer">Attendance</string>
+    <string name="title_activity_import">Attendance</string>
+    <string name="title_activity_import1">Attendance</string>
+    <string name="title_activity_main_activityimp">Attendance</string>
+
+</resources>

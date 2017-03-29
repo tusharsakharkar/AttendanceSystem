@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ButtonStyle">
+        <ignore path="res/layout/activity_ass_enter.xml" />
+        <ignore path="res/layout/activity_ass_show.xml" />
+        <ignore path="res/layout/activity_attend_.xml" />
+        <ignore path="res/layout/activity_showmark.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+        <ignore path="res/layout/activity_today_display.xml" />
+    </issue>
+    <issue id="Deprecated">
+        <ignore path="res/layout/activity_ass_enter.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+    </issue>
+    <issue id="DisableBaselineAlignment">
+        <ignore path="res/layout/activity_attend_.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_profile1.xml" />
+    </issue>
+    <issue id="DuplicateIds">
+        <ignore path="res/layout/activity_developer.xml" />
+        <ignore path="res/layout/activity_export.xml" />
+        <ignore path="res/layout/activity_help.xml" />
+        <ignore path="res/layout/activity_main_activity1.xml" />
+        <ignore path="res/layout/activity_main_activityimp.xml" />
+        <ignore path="res/layout/activity_profile1.xml" />
+        <ignore path="res/layout/activity_setting_activity.xml" />
+    </issue>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/activity_ass_display.xml" />
+        <ignore path="res/layout/activity_ass_enter.xml" />
+        <ignore path="res/layout/activity_ass_show.xml" />
+        <ignore path="res/layout/activity_attend_.xml" />
+        <ignore path="res/layout/activity_date_picker1.xml" />
+        <ignore path="res/layout/activity_developer.xml" />
+        <ignore path="res/layout/activity_export.xml" />
+        <ignore path="res/layout/activity_help.xml" />
+        <ignore path="res/layout/activity_list_activity.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_main_activity1.xml" />
+        <ignore path="res/layout/activity_main_activityimp.xml" />
+        <ignore path="res/layout/activity_profile1.xml" />
+        <ignore path="res/layout/activity_seclistdisplay.xml" />
+        <ignore path="res/layout/activity_setting_activity.xml" />
+        <ignore path="res/layout/activity_showmark.xml" />
+        <ignore path="res/layout/activity_testcolumn.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+        <ignore path="res/layout/activity_today_display.xml" />
+        <ignore path="res/layout/input_dialog.xml" />
+        <ignore path="res/layout/input_dialog0.xml" />
+        <ignore path="res/layout/update_dialog.xml" />
+    </issue>
+    <issue id="InefficientWeight">
+        <ignore path="res/layout/activity_export.xml" />
+        <ignore path="res/layout/activity_main_activityimp.xml" />
+    </issue>
+    <issue id="NestedScrolling">
+        <ignore path="res/layout/activity_ass_display.xml" />
+        <ignore path="res/layout/activity_ass_show.xml" />
+        <ignore path="res/layout/activity_date_picker1.xml" />
+        <ignore path="res/layout/activity_list_activity.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_profile1.xml" />
+        <ignore path="res/layout/activity_seclistdisplay.xml" />
+        <ignore path="res/layout/activity_showmark.xml" />
+        <ignore path="res/layout/activity_testcolumn.xml" />
+        <ignore path="res/layout/activity_today_display.xml" />
+    </issue>
+    <issue id="ObsoleteLayoutParam">
+        <ignore path="res/layout/activity_ass_display.xml" />
+        <ignore path="res/layout/activity_ass_show.xml" />
+        <ignore path="res/layout/activity_attend_.xml" />
+        <ignore path="res/layout/activity_date_picker1.xml" />
+        <ignore path="res/layout/activity_developer.xml" />
+        <ignore path="res/layout/activity_help.xml" />
+        <ignore path="res/layout/activity_list_activity.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_main_activity1.xml" />
+        <ignore path="res/layout/activity_main_activityimp.xml" />
+        <ignore path="res/layout/activity_profile1.xml" />
+        <ignore path="res/layout/activity_seclistdisplay.xml" />
+        <ignore path="res/layout/activity_showmark.xml" />
+        <ignore path="res/layout/activity_testcolumn.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+        <ignore path="res/layout/activity_today_display.xml" />
+    </issue>
+    <issue id="ScrollViewSize">
+        <ignore path="res/layout/activity_ass_display.xml" />
+        <ignore path="res/layout/activity_ass_enter.xml" />
+        <ignore path="res/layout/activity_ass_show.xml" />
+        <ignore path="res/layout/activity_attend_.xml" />
+        <ignore path="res/layout/activity_date_picker1.xml" />
+        <ignore path="res/layout/activity_developer.xml" />
+        <ignore path="res/layout/activity_export.xml" />
+        <ignore path="res/layout/activity_help.xml" />
+        <ignore path="res/layout/activity_list_activity.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_main_activity1.xml" />
+        <ignore path="res/layout/activity_main_activityimp.xml" />
+        <ignore path="res/layout/activity_profile1.xml" />
+        <ignore path="res/layout/activity_seclistdisplay.xml" />
+        <ignore path="res/layout/activity_showmark.xml" />
+        <ignore path="res/layout/activity_testcolumn.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+        <ignore path="res/layout/activity_today_display.xml" />
+    </issue>
+    <issue id="TextViewEdits">
+        <ignore path="res/layout/activity_ass_enter.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+    </issue>
+    <issue id="UnknownIdInLayout">
+        <ignore path="res/layout/activity_ass_enter.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+    </issue>
+    <issue id="UselessLeaf">
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_profile1.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+    </issue>
+    <issue id="UselessParent">
+        <ignore path="res/layout/activity_ass_display.xml" />
+        <ignore path="res/layout/activity_ass_enter.xml" />
+        <ignore path="res/layout/activity_ass_show.xml" />
+        <ignore path="res/layout/activity_attend_.xml" />
+        <ignore path="res/layout/activity_date_picker1.xml" />
+        <ignore path="res/layout/activity_developer.xml" />
+        <ignore path="res/layout/activity_export.xml" />
+        <ignore path="res/layout/activity_help.xml" />
+        <ignore path="res/layout/activity_list_activity.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_main_activity1.xml" />
+        <ignore path="res/layout/activity_main_activityimp.xml" />
+        <ignore path="res/layout/activity_profile1.xml" />
+        <ignore path="res/layout/activity_seclistdisplay.xml" />
+        <ignore path="res/layout/activity_setting_activity.xml" />
+        <ignore path="res/layout/activity_showmark.xml" />
+        <ignore path="res/layout/activity_testcolumn.xml" />
+        <ignore path="res/layout/activity_testenter.xml" />
+        <ignore path="res/layout/activity_today_display.xml" />
+        <ignore path="res/layout/input_dialog.xml" />
+        <ignore path="res/layout/input_dialog0.xml" />
+        <ignore path="res/layout/protest.xml" />
+        <ignore path="res/layout/testcell.xml" />
+        <ignore path="res/layout/update_dialog.xml" />
+    </issue>
+</lint>

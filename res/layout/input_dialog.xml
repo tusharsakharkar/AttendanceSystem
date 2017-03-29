@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+   
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lighter_gray"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="250dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="0dp"
+            android:background="@color/white"
+            android:ems="10"                    android:layout_marginTop="030dp"
+            
+            android:hint="Roll no"
+            android:inputType="number"
+            android:maxLines="1"
+            android:textColor="@color/black" >
+
+        <requestFocus />
+    </EditText>
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="250dp"
+            android:layout_height="30dp"
+        android:layout_marginLeft="0dp"        android:layout_gravity="center"
+            android:background="@color/white"
+                    android:layout_marginTop="010dp"
+                    android:hint="Full name"
+                    android:textColor="@color/black"
+        android:ems="10"
+                android:maxLines="1" 
+        android:layout_marginBottom="30dp"
+        android:inputType="textPersonName" />
+    </LinearLayout>
+</LinearLayout>

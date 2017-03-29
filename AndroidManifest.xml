@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.attendance"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission." />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.attendance.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.attendance.MainActivity1"
+            android:label="@string/title_activity_main_activity1" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Setting_activity"
+            android:label="@string/title_activity_setting_activity" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Help"
+            android:label="@string/title_activity_help" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Export"
+            android:label="@string/title_activity_export" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.AssDisplay"
+            android:label="@string/title_activity_ass_display" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.AssEnter"
+            android:label="@string/title_activity_ass_enter" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.AssShow"
+            android:label="@string/title_activity_ass_show" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Testcolumn"
+            android:label="@string/title_activity_testcolumn" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Testenter"
+            android:label="@string/title_activity_testenter" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Showmark"
+            android:label="@string/title_activity_showmark" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.List_activity"
+            android:label="@string/title_activity_list_activity" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.DatePicker1"
+            android:label="@string/title_activity_date_picker1" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Attend_Activity"
+            android:label="@string/title_activity_attend_" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.TodayDisplay"
+            android:label="@string/title_activity_today_display" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Seclistdisplay"
+            android:label="@string/title_activity_seclistdisplay" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Profile1"
+            android:label="@string/title_activity_profile1" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Developer"
+            android:label="@string/title_activity_developer" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Import"
+            android:label="@string/title_activity_import" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Import1"
+            android:label="@string/title_activity_import1" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.MainActivityimp"
+            android:label="@string/title_activity_main_activityimp" >
+        </activity>
+    </application>
+
+</manifest>
